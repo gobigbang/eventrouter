@@ -1,3 +1,8 @@
+[![GoDoc](https://godoc.org/github.com/pablor21/eventrouter?status.svg)](https://godoc.org/github.com/pablor21/eventrouter)
+[![GitHub release](https://img.shields.io/github/release/pablor21/eventrouter.svg)](https://img.shields.io/github/release/pablor21/eventrouter.svg)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/pablor21/eventrouter/master/LICENSE)
+
+
 # EventRouter
 
 EventRouter is a simple event routing library for Go. It allows you to bind handlers to routes and hooks to events, making it easy to manage and handle events in your application.
