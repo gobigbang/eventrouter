@@ -3,7 +3,7 @@ package eventrouter_test
 import (
 	"testing"
 
-	"github.com/pablor21/eventrouter"
+	"github.com/gobigbang/eventrouter"
 )
 
 func TestNewEvent(t *testing.T) {

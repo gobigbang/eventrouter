@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/pablor21/eventrouter"
+	"github.com/gobigbang/eventrouter"
 )
 
 type testHandler struct {

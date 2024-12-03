@@ -1,3 +1,3 @@
-module github.com/pablor21/eventrouter
+module github.com/gobigbang/eventrouter
 
 go 1.23.2
